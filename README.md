@@ -8,7 +8,7 @@
 
 ---
 
-<p align="center">Hi 👋, I'm Omar Aderkaoui, aka, whoElseButUmar</p>
+<p align="center">Hi 👋, I'm Omar Aderkaoui</p>
 <p align="center">Full Stack Developer & Technical Consultant from The Kingdom of Morocco 🇲🇦</p>
 <p align="center">Founder of AIByte Labs - Building The Tomorrow</p>
 
@@ -20,6 +20,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whoElseButUmar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1bcd85&icon_color=1bcd85&text_color=ffffff)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=whoElseButUmar&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1bcd85&ring=1bcd85&fire=ffffff&currStreakNum=ffffff&sideNums=1bcd85&currStreakLabel=1bcd85&sideLabels=1bcd85&dates=ffffff)](https://git.io/streak-stats)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whoElseButUmar&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1bcd85&text_color=ffffff)
 
 </div>
 
@@ -41,7 +43,7 @@ const theRealBigBoss = {
     "Salesforce Integration",
     "Clean Architecture",
   ],
-  motto: "Every mission begins with intel and ends with excellence",
+  iDroid: "Every mission begins with intel and ends with excellence",
 };
 ```
 
