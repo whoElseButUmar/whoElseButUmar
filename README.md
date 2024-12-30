@@ -43,7 +43,7 @@ const theRealBigBoss = {
     "Salesforce Integration",
     "Clean Architecture",
   ],
-  iDroid: "Every mission begins with intel and ends with excellence",
+  motto: "Every mission begins with intel and ends with excellence",
 };
 ```
 
@@ -65,6 +65,10 @@ const theRealBigBoss = {
 
 </div>
 
+## 📈 DEPLOYMENT RECORD
+
+<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=whoElseButUmar&custom_title=Mission%20Deployment%20History&hide_border=true&bg_color=0D1117&color=1bcd85&line=1bcd85&point=ffffff&title_color=ffffff" />
+
 ## 🌟 MOTHER BASE: AIByte Labs
 
 At **AIByte Labs**, we specialize in:
@@ -72,10 +76,6 @@ At **AIByte Labs**, we specialize in:
 - 🤖 **AI Platform**: Empowering businesses with intelligent tools
 - 🌐 **R&D Platform**: Building scalable, user-friendly applications
 - 🌍 **Trade Platform**: Connecting Morocco's innovations with the world
-
-## 📈 DEPLOYMENT RECORD
-
-<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=whoElseButUmar&custom_title=Mission%20Deployment%20History&hide_border=true&bg_color=0D1117&color=1bcd85&line=1bcd85&point=ffffff&title_color=ffffff" />
 
 ## 📟 COMMUNICATIONS
 
