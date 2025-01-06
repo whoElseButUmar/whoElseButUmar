@@ -10,7 +10,7 @@
 
 <p align="center">Hi 👋, I'm Omar Aderkaoui</p>
 <p align="center">Full Stack Developer & Technical Consultant from The Kingdom of Morocco 🇲🇦</p>
-<p align="center">Founder of AIByte Labs - Building The Tomorrow</p>
+<p align="center">Founder of AIByte Labs where we are building the **Tomorrow**</p>
 
 </div>
 
