@@ -14,16 +14,6 @@
 
 </div>
 
-## 📡 INTEL DATABASE
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=whoElseButUmar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1bcd85&icon_color=1bcd85&text_color=ffffff)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whoElseButUmar&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=1bcd85&text_color=ffffff)
-
-</div>
-
 ## 🎯 OPERATOR PROFILE
 
 ```typescript
