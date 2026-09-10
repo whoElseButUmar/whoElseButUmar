@@ -85,29 +85,9 @@
 <br>
 <h2>GitHub activity</h2>
 <p>I don't read too much into GitHub stats, but they're still a nice way to see what I've been building and experimenting with over time.</p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=whoElseButUmar&custom_title=Recent%20activity&hide_border=true&bg_color=171715&color=A8A397&line=E4572E&point=F3F0E8&title_color=F3F0E8&area=true&area_color=E4572E">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=whoElseButUmar&custom_title=Recent%20activity&hide_border=true&bg_color=F1EEE5&color=6F6A61&line=E4572E&point=171715&title_color=171715&area=true&area_color=E4572E">
-  <img alt="Umar's recent GitHub activity" src="https://github-readme-activity-graph.vercel.app/graph?username=whoElseButUmar&custom_title=Recent%20activity&hide_border=true&bg_color=F1EEE5&color=6F6A61&line=E4572E&point=171715&title_color=171715&area=true&area_color=E4572E" width="100%">
-</picture>
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=whoElseButUmar&show_icons=true&hide_border=true&bg_color=171715&title_color=F3F0E8&text_color=A8A397&icon_color=E4572E&ring_color=E4572E">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=whoElseButUmar&show_icons=true&hide_border=true&bg_color=F1EEE5&title_color=171715&text_color=6F6A61&icon_color=E4572E&ring_color=E4572E">
-        <img alt="Umar's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=whoElseButUmar&show_icons=true&hide_border=true&bg_color=F1EEE5&title_color=171715&text_color=6F6A61&icon_color=E4572E&ring_color=E4572E" width="100%">
-      </picture>
-    </td>
-    <td width="50%" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=whoElseButUmar&layout=compact&hide_border=true&bg_color=171715&title_color=F3F0E8&text_color=A8A397">
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=whoElseButUmar&layout=compact&hide_border=true&bg_color=F1EEE5&title_color=171715&text_color=6F6A61">
-        <img alt="Most-used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoElseButUmar&layout=compact&hide_border=true&bg_color=F1EEE5&title_color=171715&text_color=6F6A61" width="100%">
-      </picture>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whoElseButUmar&theme=github_dark&bg_color=171715&title_color=F3F0E8&text_color=A8A397&border_color=2C2C28&icon_color=E4572E&chart_color=E4572E" alt="Umar's GitHub activity" width="100%">
+</p>
 <br>
 <h2>Behind the interface</h2>
 <details>
