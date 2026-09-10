@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
+  <title id="title">Engineered for use</title>
+  <desc id="desc">Footer artwork for Umar's GitHub profile.</desc>
+  <rect width="1200" height="150" rx="18" fill="#171715"/>
+  <line x1="48" y1="42" x2="1152" y2="42" stroke="#2C2C28"/>
+  <text x="52" y="101" fill="#F3F0E8" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="800" letter-spacing="-1">ENGINEERED FOR USE.</text>
+  <text x="52" y="124" fill="#A8A397" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" letter-spacing="2">OMAR ADERKAOUI / WHO ELSE BUT UMAR?</text>
+  <g transform="translate(980 74)">
+    <circle cx="0" cy="0" r="15" fill="#E4572E"/>
+    <circle cx="48" cy="0" r="15" fill="#7A9A63"/>
+    <circle cx="96" cy="0" r="15" fill="#E3B341"/>
+    <circle cx="144" cy="0" r="15" fill="none" stroke="#A8A397" stroke-width="2"/>
+  </g>
+</svg>
