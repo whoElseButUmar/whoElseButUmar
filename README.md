@@ -83,12 +83,6 @@
   </tr>
 </table>
 <br>
-<h2>GitHub activity</h2>
-<p>I don't read too much into GitHub stats, but they're still a nice way to see what I've been building and experimenting with over time.</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whoElseButUmar&theme=github_dark&bg_color=171715&title_color=F3F0E8&text_color=A8A397&border_color=2C2C28&icon_color=E4572E&chart_color=E4572E" alt="Umar's GitHub activity" width="100%">
-</p>
-<br>
 <h2>Behind the interface</h2>
 <details>
   <summary><strong>What I care about</strong></summary>
