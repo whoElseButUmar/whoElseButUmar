@@ -7,7 +7,7 @@
 <table>
   <tr>
     <td width="63%" valign="top">
-      <h2>Good software should explain itself.</h2>
+      <h2>"Good software should explain itself."</h2>
       <p>I’m <strong>Omar Aderkaoui</strong>, a software engineer, technical consultant, and founder of <a href="https://aibytelabs.com"><strong>AIByte Labs</strong></a>.</p>
       <p>I spend most of my time building products where the UI/UX and the underlying systems have to work well together. That usually means complex workflows, integrations, internal tools, and AI features that actually earn their place.</p>
       <p>I care a lot about the small things that make software feel good to use: clear feedback, sensible defaults, useful error messages, good naming, and making sure people always know what is happening.</p>
