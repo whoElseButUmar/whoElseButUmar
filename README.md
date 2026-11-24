@@ -1,7 +1,4 @@
 <p align="center">
-  <img src="./assets/hero-dark.svg" alt="Umar — Omar Aderkaoui" width="100%">
-</p>
-<p align="center">
   <a href="https://aibytelabs.com"><img alt="AIByte Labs" src="https://img.shields.io/badge/AIByte_Labs-visit-E4572E?style=flat-square&labelColor=171715"></a>
   <a href="https://github.com/aibyte-labs"><img alt="AIByte Labs on GitHub" src="https://img.shields.io/badge/GitHub-organization-F1EEE5?style=flat-square&logo=github&logoColor=F1EEE5&labelColor=171715&color=6F6A61"></a>
   <a href="https://linkedin.com/in/omar-aderkaoui-aa85b4244/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-F1EEE5?style=flat-square&logo=linkedin&logoColor=F1EEE5&labelColor=171715&color=6F6A61"></a>
