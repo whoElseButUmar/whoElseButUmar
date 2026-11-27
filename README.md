@@ -111,6 +111,3 @@
   </tr>
 </table>
 <br>
-<p align="center">
-  <img src="./assets/footer-dark.svg" alt="Engineered for use" width="100%">
-</p>
